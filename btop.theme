@@ -1,0 +1,81 @@
+# Theme: Mars
+# By: Grok for Omarchy
+
+# Main bg
+theme[main_bg]="#000000"
+
+# Main text color
+theme[main_fg]="#D9AFA7"
+
+# Title color for boxes
+theme[title]="#D9AFA7"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#FF6B4A"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4A2C2C"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#D9AFA7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#7B534E"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#FF6B4A"
+
+# Cpu box outline color
+theme[cpu_box]="#7B534E"
+
+# Memory/disks box outline color
+theme[mem_box]="#7B534E"
+
+# Net up/down box outline color
+theme[net_box]="#7B534E"
+
+# Processes box outline color
+theme[proc_box]="#7B534E"
+
+# Box divider line and small boxes line color
+theme[div_line]="#7B534E"
+
+# Temperature graph colors
+theme[temp_start]="#E07B5F"
+theme[temp_mid]="#C45A3F"
+theme[temp_end]="#A0392F"
+
+# CPU graph colors
+theme[cpu_start]="#E07B5F"
+theme[cpu_mid]="#C45A3F"
+theme[cpu_end]="#A0392F"
+
+# Mem/Disk free meter
+theme[free_start]="#E07B5F"
+theme[free_mid]="#C45A3F"
+theme[free_end]="#A0392F"
+
+# Mem/Disk cached meter
+theme[cached_start]="#E07B5F"
+theme[cached_mid]="#C45A3F"
+theme[cached_end]="#A0392F"
+
+# Mem/Disk available meter
+theme[available_start]="#E07B5F"
+theme[available_mid]="#C45A3F"
+theme[available_end]="#A0392F"
+
+# Mem/Disk used meter
+theme[used_start]="#E07B5F"
+theme[used_mid]="#C45A3F"
+theme[used_end]="#A0392F"
+
+# Download graph colors
+theme[download_start]="#E07B5F"
+theme[download_mid]="#C45A3F"
+theme[download_end]="#A0392F"
+
+# Upload graph colors
+theme[upload_start]="#E07B5F"
+theme[upload_mid]="#C45A3F"
+theme[upload_end]="#A0392F"
